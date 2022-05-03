@@ -1,0 +1,18 @@
+:host {
+  position: relative;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("~src/assets/st_back_login-01.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  .header-sms {
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: transparent;
+  }
+}
